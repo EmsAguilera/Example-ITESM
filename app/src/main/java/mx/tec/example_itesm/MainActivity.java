@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         myButton = findViewById(R.id.button1);
-        myTextView = findViewById(R.id.txtView1);
+        myTextView = findViewById(R.id.textView1);
 
         myTextView.setText("Goodbye class!");
     }
